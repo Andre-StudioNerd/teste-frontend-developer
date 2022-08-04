@@ -147,7 +147,9 @@ h6 {
 
 @media (max-width: 768px) {
   #header.header-scrolled {
-    padding: 10px 0;
+    
+    position: -webkit-sticky; /* Necessário para funcionar no Safari */
+    position: sticky;
     
   }
 
