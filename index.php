@@ -55,7 +55,7 @@ session_start();
     <div class="container d-flex align-items-center justify-content-between">
         <!-- ======= Logotipo ======= -->
       <div class="logo">
-        <h1 class="text-light"><a href="index.php"> <img src="assets/img/logo_parranchos.png" class="img-fluid img-style" alt="logo"></a></h1>
+        <h1 class="text-light"><a href="https://teste.studionerd.com.br/ellos_teste/"> <img src="assets/img/logo_parranchos.png" class="img-fluid img-style" alt="logo"></a></h1>
         
       </div>
        <!-- ======= Chamada telefone ======= -->
