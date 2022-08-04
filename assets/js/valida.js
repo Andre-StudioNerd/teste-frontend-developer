@@ -1,3 +1,8 @@
+/**
+* Author: Andre Luis Fernandes
+*/
+
+
 //mascra input numero telefone 
 function mascara(o,f){
     v_obj=o
