@@ -6,7 +6,7 @@ session_start();
 
 <head>
   <meta charset="UTF-8">
-  <title>Parranchos | RN</title>
+  <title>Parrachos Praia Clube | RN</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
   <meta name="description" content="Complexo de lazer beira-mar com diversos atrativos" />
