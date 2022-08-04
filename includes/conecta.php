@@ -1,8 +1,8 @@
 <?php
 $servername = "br384.hostgator.com.br";
-$database = "studi_reserva";
-$username = "studi_root";
-$password = "bruna80";
+$database = "stud_reserva";
+$username = "stud_root";
+$password = "brunana80";
 // Cria conexão
 $conn = mysqli_connect($servername, $username, $password, $database);
 // Checka conexão
