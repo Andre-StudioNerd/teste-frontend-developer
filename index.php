@@ -74,7 +74,7 @@ session_start();
         <div class="row space_row">
 
           <!-- ======= Slogan ======= -->
-    <div class="col-xl-6 col-md-6 space">
+    <div class="col-xl-6 space">
       <h1>Parrachos Praia Clube</h1>
       <h2>Preencha o formulário de reserva</h2>
       <?php 
@@ -90,7 +90,7 @@ session_start();
    
     </div>
     <!-- ======= Cadastro form ======= -->
-    <div class="col-xl-6 col-md-6">
+    <div class="col-xl-6">
       
     <form action="../ellos_teste/includes/cadastro.php" method="POST" class="form" name="form" id="form_contato">
   <label class="form_title">Faça sua reserva</label>
